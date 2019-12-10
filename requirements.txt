@@ -1,0 +1,4 @@
+requests>=2.22.0
+jupyter-core>=4.4.0
+notebook>=6.0.0
+lxml>=4.4.2
