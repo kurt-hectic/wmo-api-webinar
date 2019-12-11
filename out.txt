@@ -1,0 +1,13 @@
+RegionId	Region Name	Country Area	Country Code	StationId	IndexNbr	Index SubNbr	Station Name	Lat	Long	Hp	HpFlag	Hha	HhaFlag	PressureDefId	SO-1	SO-2	SO-3	SO-4	SO-5	SO-6	SO-7	SO-8	ObsHs	UA-1	UA-3	UA-4	ObsRems
+RA-I	Africa	United Kingdom (the)	GBR	92			Ascension Island	-8 01 48S	-15 36 00W	91		91															
+RA-I	Africa	United Kingdom (the)	GBR	8395	61966	0	DIEGO GARCIA (61966-0)	-8 42 01S	72 24 00E	8.0					X	X	X	X	X	X	X	X	S00-24				
+RA-I	Africa	United Kingdom (the)	GBR	8396	61967	0	DIEGO GARCIA (61967-0)	-8 42 00S	72 24 00E	3.0		1			X	X	X	X	X	X	X	.					
+RA-I	Africa	United Kingdom (the)	GBR	8392	61903	0	ST. HELENA	-16 03 37S	-6 19 49W	438.0					X	X	X	X	X	X	X	X	S00-24				
+RA-I	Africa	United Kingdom (the)	GBR	8390	61901	0	ST. HELENA IS.	-16 03 29S	-6 19 58W	436.0		435			X	X	X	X	X	X	X	X	H00-24				
+RA-I	Africa	United Kingdom (the)	GBR	8391	61902	0	WIDE AWAKE FIELD (ASCENSION IS.)	-8 01 48S	-15 35 39W	79.0		86			X	X	X	X	X	X	X	X					
+RA-VII	Antarctica	United Kingdom (the)	GBR	12488	89013	0	BALDRICK AWS	-83 13 59S	-14 56 59W	1968.0					X	X	X	X	X	X	X	X					
+RA-VII	Antarctica	United Kingdom (the)	GBR	12528	89266	0	BUTLER ISLAND	-73 47 36S	-61 49 49W	115.0					X	X	X	X	X	X	X	X					
+RA-VII	Antarctica	United Kingdom (the)	GBR	12509	89065	0	FOSSIL BLUFF	-72 40 36S	-69 42 50W	66.0		66			X	X	X	X	X	X	X	X					
+RA-VII	Antarctica	United Kingdom (the)	GBR	12492	89022	0	HALLEY	-76 25 42S	-26 29 46W	30.0		30			X	X	X	X	X	X	X	X					
+RA-VII	Antarctica	United Kingdom (the)	GBR	583			Halley	-76 25 42S	-26 29 46W	30		30															
+RA-VII	Antarctica	United Kingdom (the)	GBR	12525	89262	0	LARSEN ICE SHELF	-68 59 12S	-62 31 49W	45.0					X	X	X	X	X	X	X	X					
