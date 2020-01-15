@@ -5,3 +5,4 @@ lxml>=4.4.2
 xmltodict
 isodate
 git+git://github.com/kurt-hectic/oscar-schedules.git@master#egg=oscar-schedules
+git+git://github.com/kurt-hectic/oscar-client.git@master
