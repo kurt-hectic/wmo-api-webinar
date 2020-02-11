@@ -48,9 +48,16 @@
           </gmd:linkage>
         </gmd:CI_OnlineResource>
       </wmdr:onlineResource>
+      <wmdr:onlineResource>
+        <gmd:CI_OnlineResource>
+          <gmd:linkage>
+            <gmd:URL>https://cidades.ibge.gov.br/brasil/sc/chapeco/panorama</gmd:URL>
+          </gmd:linkage>
+        </gmd:CI_OnlineResource>
+      </wmdr:onlineResource>
       <wmdr:description>
         <wmdr:Description>
-          <wmdr:description>Automatic weather station</wmdr:description>
+          <wmdr:description>Automatic weather station. Station manufacturer is Vaisala</wmdr:description>
           <wmdr:validPeriod xlink:type="simple">
             <gml:TimePeriod gml:id="desc_1">
               <gml:beginPosition>2019-02-19</gml:beginPosition>
@@ -81,118 +88,6 @@
               <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
               <wmdr:validPeriod xlink:type="simple">
                 <gml:TimePeriod gml:id="affiliation_1_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_2_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_3_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_4_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_5_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_6_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_7_status">
-                  <gml:beginPosition>2019-02-19</gml:beginPosition>
-                  <gml:endPosition/>
-                </gml:TimePeriod>
-              </wmdr:validPeriod>
-            </wmdr:ReportingStatus>
-          </wmdr:reportingStatus>
-        </wmdr:ProgramAffiliation>
-      </wmdr:programAffiliation>
-      <wmdr:programAffiliation>
-        <wmdr:ProgramAffiliation>
-          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
-          <wmdr:reportingStatus>
-            <wmdr:ReportingStatus>
-              <wmdr:reportingStatus xlink:type="simple" xlink:href="http://codes.wmo.int/wmdr/operational"/>
-              <wmdr:validPeriod xlink:type="simple">
-                <gml:TimePeriod gml:id="affiliation_8_status">
                   <gml:beginPosition>2019-02-19</gml:beginPosition>
                   <gml:endPosition/>
                 </gml:TimePeriod>
