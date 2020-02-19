@@ -1,4 +1,4 @@
-<wmdr:WIGOSMetadataRecord xmlns:wmdr="http://def.wmo.int/wmdr/2017" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:om="http://www.opengis.net/om/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:sam="http://www.opengis.net/sampling/2.0" xmlns:sams="http://www.opengis.net/samplingSpatial/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="id1" xsi:schemaLocation="http://def.wmo.int/wmdr/2017 http://schemas.wmo.int/wmdr/1.0RC8/wmdr.xsd">
+<wmdr:WIGOSMetadataRecord xmlns:wmdr="http://def.wmo.int/wmdr/2017" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:om="http://www.opengis.net/om/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:sam="http://www.opengis.net/sampling/2.0" xmlns:sams="http://www.opengis.net/samplingSpatial/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="id1" xsi:schemaLocation="http://def.wmo.int/wmdr/2017 http://schemas.wmo.int/wmdr/1.0RC9/wmdr.xsd">
   <wmdr:headerInformation owns="false">
     <wmdr:Header/>
   </wmdr:headerInformation>
@@ -99,7 +99,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_1">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_1">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -190,7 +190,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_2">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_2">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -281,7 +281,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_3">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_3">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -372,7 +372,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_4">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_4">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -463,7 +463,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_5">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_5">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -554,7 +554,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_6">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_6">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -645,7 +645,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_7">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_7">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
@@ -736,7 +736,7 @@
       <wmdr:observation>
         <wmdr:ObservingCapability gml:id="obsCap_8">
           <wmdr:facility xlink:href="_0-76-0-1303304000000594"/>
-          <wmdr:programAffiliation xlink:href="GOS"/>
+          <wmdr:programAffiliation xlink:href="http://codes.wmo.int/wmdr/ProgramAffiliation/GOS"/>
           <wmdr:observation>
             <om:OM_Observation gml:id="obs_8">
               <om:type xlink:href="http://codes.wmo.int/wmdr/featureOfInterest/point"/>
